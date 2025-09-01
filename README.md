@@ -83,7 +83,6 @@ If you want the script to run automatically every time you start your laptop:
 - **Key behaving strangely?**  
   Remove the file from the Startup folder and restart.
 
-
 ## Contributing
 
 I welcome contributions! Please fork the repository and submit a pull request with your changes.
