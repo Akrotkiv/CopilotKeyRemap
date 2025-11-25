@@ -30,7 +30,7 @@ Windows Sticky Keys don't work with remapped keys from AutoHotkey because Sticky
 ## Installation
 
 1. Install [AutoHotkey v2](https://www.autohotkey.com/)
-2. Save the script as `remap_copilot_final_EN.ahk`
+2. Save the script as `remap_copilot_key_sticky.ahk`
 3. Run by double-clicking the file
 4. (Optional) Add to Startup folder for automatic launch at Windows startup
 
